@@ -1,5 +1,5 @@
 # TypeScript-Drag-Drop
-![ts screenshot](https://user-images.githubusercontent.com/57875037/100519447-380b8080-3198-11eb-830f-f3172b1a96b5.png)
+![ts screenshot](https://user-images.githubusercontent.com/57875037/100519652-a1d85a00-3199-11eb-802b-279fc3ee2d67.png)
 
 ## To start the server
 1)Install Node and npm from https://nodejs.org/en/download/ and 
